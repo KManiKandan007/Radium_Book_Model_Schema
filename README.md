@@ -1,1 +1,2 @@
-# Radium_Book_Model_Schema
+# radium
+Repository for backend cohort - Radium
